@@ -14,4 +14,4 @@
 
 ## 目录
 
-[20170706](./blob/master/20170706.md)
+[20170706](https://github.com/pj-bigdata/bigdata-news-weekly/blob/master/20170706.md)
