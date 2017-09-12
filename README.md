@@ -16,3 +16,4 @@
 
 [20170706](https://github.com/pj-bigdata/bigdata-news-weekly/blob/master/20170706.md)
 [20170713](https://github.com/pj-bigdata/bigdata-news-weekly/blob/master/20170713.md)
+[20170901](https://github.com/pj-bigdata/bigdata-news-weekly/blob/master/20170901.md)
